@@ -1,0 +1,18 @@
+{
+  "name": "kata-boilerplate",
+  "version": "1.0.0",
+  "description": "A default platform to write kata solutions while running tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -w tests.js"
+  },
+  "keywords": [
+    "kata",
+    "codewars"
+  ],
+  "author": "Fran Bosquet",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^4.0.1"
+  }
+}
